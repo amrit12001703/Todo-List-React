@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Todo-List-React/static/css/main.2be32c3e.chunk.css",
+    "main.js": "/Todo-List-React/static/js/main.212f6dce.chunk.js",
+    "main.js.map": "/Todo-List-React/static/js/main.212f6dce.chunk.js.map",
+    "runtime-main.js": "/Todo-List-React/static/js/runtime-main.c3721548.js",
+    "runtime-main.js.map": "/Todo-List-React/static/js/runtime-main.c3721548.js.map",
+    "static/css/2.a24f6692.chunk.css": "/Todo-List-React/static/css/2.a24f6692.chunk.css",
+    "static/js/2.32c69cf1.chunk.js": "/Todo-List-React/static/js/2.32c69cf1.chunk.js",
+    "static/js/2.32c69cf1.chunk.js.map": "/Todo-List-React/static/js/2.32c69cf1.chunk.js.map",
+    "static/js/3.72471134.chunk.js": "/Todo-List-React/static/js/3.72471134.chunk.js",
+    "static/js/3.72471134.chunk.js.map": "/Todo-List-React/static/js/3.72471134.chunk.js.map",
+    "index.html": "/Todo-List-React/index.html",
+    "static/css/2.a24f6692.chunk.css.map": "/Todo-List-React/static/css/2.a24f6692.chunk.css.map",
+    "static/css/main.2be32c3e.chunk.css.map": "/Todo-List-React/static/css/main.2be32c3e.chunk.css.map",
+    "static/js/2.32c69cf1.chunk.js.LICENSE.txt": "/Todo-List-React/static/js/2.32c69cf1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Todo-List-React/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3721548.js",
+    "static/css/2.a24f6692.chunk.css",
+    "static/js/2.32c69cf1.chunk.js",
+    "static/css/main.2be32c3e.chunk.css",
+    "static/js/main.212f6dce.chunk.js"
+  ]
+}
